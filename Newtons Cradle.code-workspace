@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C-27-main"
+		},
+		{
+			"path": "..\\Desktop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
